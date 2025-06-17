@@ -48,3 +48,11 @@ Topik yang digunakan: `iot/sensor/data`
   "temperature": 36.5,
   "humidity": 72.0
 }
+
+## 📊 Tampilan Aplikasi IoT Dashboard
+
+### 🖥️ Dashboard Monitoring
+![Dashboard](images/dashboard.JPG)
+
+### 📈 Data Sensor
+![Sensor Data](images/sensor-data.JPG)
